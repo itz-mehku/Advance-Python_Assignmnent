@@ -24,10 +24,10 @@
 ### Q9. WAP to Covert all the videos of Q.8 into audio.[**Hint**: Find the package from pypi.org and use it.]
 
 ### Q10. WAP to Create an automated pipeline using multi-threading for:
-# "Automatic download of 100 videos from YouTube" --> "Convert it to audio."
+### "Automatic download of 100 videos from YouTube" --> "Convert it to audio."
 
 ### Q.11 WAP to Create an automated pipeline using multi-threading for: 
-# "Automatic download of 500 images of dog from GoogleImages" --> "Rescale it to 50%."
+### "Automatic download of 500 images of dog from GoogleImages" --> "Rescale it to 50%."
 
 ---
 ### Part II: Data Analytics
@@ -80,3 +80,5 @@ Perform the following operations:
  (ii) Perform Wilcoxon Signed Rank Test on each column.
 
  (iii) Perform Two Sample t-Test and Wilcoxon Rank Sum Test on Column 3 and Column 4
+
+ ---
